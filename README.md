@@ -1,6 +1,6 @@
 # Data-Mining-Group-Project
 
-**Project Title:** Crime Rates in The Bronx
+**Project Title:** Restaurant Recommendation System
 **I will be providing the file with my part of the code only, visit the other parts for the other gropu members contributions under Resources/Links**
 
 The goal of our project is to explore the Yelp dataset and perform sentiment analysis, trigram modeling, and recommendation algorithms. By creating two supervised learning classifiers, logistic regression, and naive bayes, we predict the sentiment of new reviews. Using a recommendation algorithm, we also recommend a restaurant based on user input.
