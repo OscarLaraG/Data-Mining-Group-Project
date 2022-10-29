@@ -13,7 +13,7 @@ Yelp provides several datasets. For our project, we combined the business and re
 **Techniques:**
 These 2 datasets are used to be able to demonstrate k-means clustering. We will be creating maps for each dataset, ending with a map of fully clustered restaurants that will help recommend restaurants to the user.
 Using K-means Clustering, all restaurants from the previous map will be put into clusters. This recommendation algorithm will recommend the user the top 5 restaurants based on the cluster he/she is closest to.
-To find the ideal number of clusters based off the last map, we will use the elbow method. Our elbow was 5, 5 clusters,
+To find the ideal number of clusters based off the last map, we will use the elbow method.
 
 **Resources/Links**
 https://www.yelp.com/dataset
