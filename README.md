@@ -4,7 +4,9 @@
 **I will be providing the file with my part of the code only, visit the other parts for the other group members contributions under Resources/Links**
 
 The goal of our project is to explore the Yelp dataset and perform sentiment analysis, trigram modeling, and recommendation algorithms. By creating two supervised learning classifiers, utilizing logistic regression, and naive bayes, we predict the sentiment of new reviews. Using a recommendation algorithm, we also recommend a restaurant based on user input.
-In our project, we determine if reviews were positive, negative, or neutral. We did this using sentiment analysis techniques. Sentiment analysis is the process of understanding an opinion about a subject. To perform sentiment analysis, we utilized the bag-of-words method via the NLTK package. We vectorized the reviews with the bag-of-words method and categorized each review with 1 for positive reviews (4-5 rating), -1 for negative reviews (1-2 rating), and 0 for neutral reviews (3 rating). Using this as our training set for logistic regression and naive bayes, we were able to predict the ratings for future reviews. 
+In our project, we determine if reviews were positive, negative, or neutral. We did this using sentiment analysis techniques. Sentiment analysis is the process of understanding an opinion about a subject. To perform sentiment analysis, we utilized the bag-of-words method via the NLTK package. We vectorized the reviews with the bag-of-words method and categorized each review with 1 for positive reviews (4-5 rating), -1 for negative reviews (1-2 rating), and 0 for neutral reviews (3 rating). Using this as our training set for logistic regression and naive bayes, we were able to predict the ratings for future reviews.
+
+** Attached a Copy of the FULL Code, as a ipynb file.***
 
 **Datasets:**
 https://www.yelp.com/dataset
